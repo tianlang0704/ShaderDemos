@@ -434,6 +434,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buttonPrefab: {fileID: 2029022648552880470, guid: 87336ab2516cdbc4f98ca5ec36d76ed1,
     type: 3}
+  backPrefab: {fileID: 169308785896522034, guid: 2e3147452129ac848a6de0c37872f10e,
+    type: 3}
 --- !u!1 &962274895
 GameObject:
   m_ObjectHideFlags: 0
